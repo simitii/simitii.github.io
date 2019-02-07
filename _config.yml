@@ -1,0 +1,15 @@
+url: http://sametdemir.xyz/
+baseurl: "/"
+title: Samet Demir
+description: Personal Web Page
+
+twitter_username: simitii
+github_username:  simitii
+linkedin_username: simitii
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
