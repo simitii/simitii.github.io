@@ -1,13 +1,9 @@
 ---
-id: 78
 title: Layers of Abstraction
 date: 2017-10-29T02:01:27+00:00
 author: Samet Demir
 layout: post
-guid: http://sametdemir.xyz/blog/?p=78
 permalink: /layers-of-abstraction/
-categories:
-  - Genel
 ---
 <p style="text-align: center;">
   <a href="https://en.wikipedia.org/wiki/Abstraction_(software_engineering)"><strong>Layers of Abstraction</strong></a> is one of most important principles in <a href="https://en.wikipedia.org/wiki/Software_engineering">Software Engineering</a>. It simply means every part of the program does its job without knowing details of other parts of the program. This simple principle makes it easy to design and develop big programs.

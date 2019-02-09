@@ -2,10 +2,9 @@
 date: 2017-10-05T17:18:58+00:00
 author: Samet Demir
 layout: page
-guid: http://sametdemir.xyz/
 ---
 <h1 style="text-align: center;">
-  <img class="wp-image-102 aligncenter" style="font-size: 1.6em;" src="http://sametdemir.xyz/wp-content/uploads/2017/10/profile_filtered.png" alt="" width="207" height="217" />
+  <img class="aligncenter" style="font-size: 1.6em;" src="/uploads/profile_filtered.png" alt="" width="207" height="217" />
 </h1>
 
 <p style="text-align: center;">
