@@ -1,7 +1,7 @@
 url: http://sametdemir.xyz/
 baseurl: "/"
 title: Samet Demir
-description: Personal Web Page
+description: Computer Engineering Student, Undergraduate Research Assistant & Software Developer
 
 twitter_username: simitii
 github_username:  simitii
@@ -13,3 +13,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
