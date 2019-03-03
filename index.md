@@ -17,7 +17,7 @@ layout: page
 
 
 <p style="text-align: center;">
-  I am passioned about Artificial General Intelligence research. I am planning to work on this passion as a professional researcher for the rest of my life. This is a multidisciplinary goal such that it involves Neuroscience, Cognitive Science, Machine Learning and Mathematics. I try to understand and use every possible perspective about the Artificial Intelligence research.
+  I am passioned about Artificial General Intelligence research. I plan to work on this passion as a professional researcher for the rest of my life. I try to learn and use every possible perspective about the Artificial Intelligence research. This is a multidisciplinary goal such that it involves Neuroscience, Cognitive Science, Machine Learning, Mathematics and more. 
 </p>
 
 <p style="text-align: center;">
