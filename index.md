@@ -12,9 +12,11 @@ layout: page
 </p>
 
 <p style="text-align: center;">
-   I am an undergraduate <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> student at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>. (Expected Graduation: 2020)
+   I am an undergraduate <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> student at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>.
 </p>
-
+<p style="text-align: center;">
+(Expected Graduation: 2020)
+</p>
 
 <p style="text-align: center;">
   I am passioned about Artificial General Intelligence research. I plan to work on this passion as a professional researcher for the rest of my life. I try to learn and use every possible perspective about the Artificial Intelligence research. This is a multidisciplinary goal such that it involves Neuroscience, Cognitive Science, Machine Learning, Mathematics and more. 
