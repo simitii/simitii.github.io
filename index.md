@@ -12,24 +12,17 @@ layout: page
 </p>
 
 <p style="text-align: center;">
-   I am an undergraduate <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> student at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>.
-</p>
-<p style="text-align: center;">
-(Expected Graduation: 2020)
+   I am a Senior <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> Student & Undergraduate Research Assistant at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>. <a href="/cv">See my CV for more.</a>
 </p>
 
 <p style="text-align: center;">
-  I am passioned about Artificial General Intelligence research. I plan to work on this passion as a professional researcher for the rest of my life. I try to learn and use every possible perspective about the Artificial Intelligence research. This is a multidisciplinary goal such that it involves Neuroscience, Cognitive Science, Machine Learning, Mathematics and more. 
-</p>
-
-<p style="text-align: center;">
-Up to summer 2018, I was just reading research papers. However, I started working as Undergraduate Research Assistant under supervision of Ali Taylan Cemgil at Boğaziçi University in summer 2018.
+I am looking for funded MS/PhD programs that fit to my research interest.
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-<b>Research Interest:</b> ML, AI, Representation Learning, Reinforcement Learning
+<b>Research Interest:</b> Theoretical Machine Learning (especially Theory of Deep Learning), Optimization, Online Learning, Reinforcement Learning, Natural Language Processing, Robust & Verified Machine Learning, Interpretable Machine Learning
 </p>
 
 
