@@ -8,11 +8,15 @@ layout: page
 </h1>
 
 <p style="text-align: center;">
-  <em><strong>contact me: </strong></em><a href="mailto:samet.demir1@boun.edu.tr">samet.demir1@boun.edu.tr</a>
+  <em><strong>Email: </strong></em><a href="mailto:samet.demir1@boun.edu.tr">samet.demir1@boun.edu.tr</a>
 </p>
 
 <p style="text-align: center;">
-   I am a Senior <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> Student & Undergraduate Research Assistant at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>. <a href="/cv">See my CV for more.</a>
+   I am a Senior <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> Student & Undergraduate Research Assistant at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>.
+</p>
+
+<p style="text-align: center;">
+<a href="/cv">see my CV for more</a>
 </p>
 
 <p style="text-align: center;">
