@@ -19,8 +19,6 @@ layout: page
 I am looking for funded MS/PhD programs that fit to my research interest.
 </p>
 
-&nbsp;
-
 <p style="text-align: center;">
 <b>Research Interest:</b> Theoretical Machine Learning (especially Theory of Deep Learning), Optimization, Online Learning, Reinforcement Learning, Natural Language Processing, Robust & Verified Machine Learning, Interpretable Machine Learning
 </p>
