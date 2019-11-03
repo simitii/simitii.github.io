@@ -16,7 +16,7 @@ layout: page
 </p>
 
 <p style="text-align: center;">
-I am looking for funded MS/PhD programs that fit to my research interest.
+<b>News:</b> (10.2019) I am looking for funded MS/PhD programs that fit to my research interest.
 </p>
 
 <p style="text-align: center;">
