@@ -6,6 +6,13 @@ twitter_username: simitii
 github_username:  simitii
 linkedin_username: simitii
 
+social:
+  name: Samet Demir
+  links:
+    - https://twitter.com/simitii
+    - https://www.linkedin.com/in/simitii
+    - https://github.com/simitii
+
 # Build settings
 markdown: kramdown
 theme: minima
