@@ -8,17 +8,9 @@ layout: page
 </h1>
 
 <p style="text-align: center;">
-  <em><strong>Email: </strong></em><a href="mailto:samet.demir1@boun.edu.tr">samet.demir1@boun.edu.tr</a>
+  <em><strong>Email: </strong></em><a href="mailto:demir.samet@hotmail.com">demir.samet@hotmail.com</a>
 </p>
 
 <p style="text-align: center;">
-   I am a Senior <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> Student & Undergraduate Research Assistant at <a href="http://www.boun.edu.tr/en-US/Index">Boğaziçi University</a>.
-</p>
-
-<p style="text-align: center;">
-<a href="/cv">see my CV for more</a>
-</p>
-
-<p style="text-align: center;">
-<b>News:</b> (10.2019) I am looking for funded MS/PhD programs.
+  I will join <a href="https://ai.ku.edu.tr/">KUIS AI Lab</a> as a Ph.D. Student in <a href="https://cs.ku.edu.tr/">Computer Science and Engineering at Koç University</a> in Fall 2020.
 </p>
