@@ -1,10 +1,10 @@
 ---
-permalink: /publications
-title: Publications
+permalink: /dblp
+title: DBLP
 layout: page
 ---
 
-[DBLP](https://dblp.org/pers/hd/d/Demir:Samet) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=VKyOvOYAAAAJ)
+[DBLP](https://dblp.org/pers/hd/d/Demir:Samet) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <style>
 .loading-container {
