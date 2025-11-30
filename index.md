@@ -17,6 +17,57 @@ layout: page
 ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
 .badge{ display:inline-block; padding:.15rem .5rem; border-radius:999px; font-size:.8rem; background:#f2f2f2; margin-right:.4rem; }
 .link-row a{ margin-right:.8rem; }
+
+/* --- CV button --- */
+.cv-button {
+  display:inline-block;
+  padding:0.55rem 1.25rem;
+  border-radius:999px;
+  border:1px solid #0f6ad8;
+  background:linear-gradient(135deg,#0f6ad8,#4d9dff);
+  color:#fff !important;
+  font-size:0.9rem;
+  font-weight:600;
+  text-decoration:none;
+  box-shadow:0 0 0 2px rgba(15,106,216,0.15);
+  transition:transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
+}
+.cv-button:hover,
+.cv-button:focus-visible {
+  background:linear-gradient(135deg,#0d5ec0,#327fe3);
+  box-shadow:0 0 0 3px rgba(15,106,216,0.28);
+  transform:translateY(-1px);
+}
+.cv-button:active {
+  transform:translateY(0);
+  box-shadow:0 0 0 1px rgba(15,106,216,0.2);
+}
+
+.link-row{
+  margin:1rem 0 .5rem;
+  text-align:center;
+}
+.link-row a{
+  margin-right:.8rem;
+}
+
+.market-note-wrapper{
+  text-align:center;
+  margin-top:0.6rem;      
+}
+
+.market-note{
+  display:inline-block;
+  margin:0;
+  padding:0.3rem 0.9rem; 
+  background:#f7f7f7;
+  border:1px solid #e0e0e0;
+  border-radius:8px;
+  font-size:0.85rem;    
+  color:#555;
+}
+
+
 </style>
 
 <div class="profile-container">
@@ -43,6 +94,19 @@ ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
       <span class="badge">Random matrix theory</span>
       <span class="badge">Robust learning</span>
     </p>
+
+    <div class="link-row" style="margin:1rem 0 0.5rem;">
+      <a class="cv-button" href="https://sametdemir.xyz/cv">
+        View full CV
+      </a>
+    </div>
+
+    <div class="market-note-wrapper">
+      <p class="small market-note">
+        Currently on the postdoctoral job market (start date: <strong>Fall 2026</strong>)
+      </p>
+    </div>
+
 
     <h4 class="section-title">Selected publications</h4>
     <ul class="compact small">
