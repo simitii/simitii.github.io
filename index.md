@@ -112,8 +112,9 @@ ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
     <ul class="compact small">
       <li><strong>Demir</strong> &amp; Dogan. <a href="https://openreview.net/forum?id=615vk8hmeH"><em>How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs.</em></a> <strong>NeurIPS 2025</strong>.</li>
       <li><strong>Demir</strong> &amp; Dogan. <a href="https://openreview.net/forum?id=tNn6Hskmti"><em>Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures with Structure.</em></a> <strong>ICLR 2025</strong>.</li>
-      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2511.01292"><em>Optimal Attention Temperature Enhances ICL under Distribution Shift.</em></a> arXiv 2025.</li>
-      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2409.20250"><em>Random features outperform linear models: Effect of strong input-label correlation in spiked covariance data.</em></a> arXiv 2024.</li>
+      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2512.01231"><em>Implicitly Normalized Online PCA: A Regularized Algorithm with Exact High-Dimensional Dynamics.</em></a> arXiv preprint, arXiv:2512.01231, 2025.</li>
+      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2511.01292"><em>Optimal Attention Temperature Enhances ICL under Distribution Shift.</em></a> arXiv preprint, arXiv:2511.01292, 2025.</li>
+      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2409.20250"><em>Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data.</em></a> arXiv preprint, arXiv:2409.20250, 2024.</li>
       <li>More on <a href="https://scholar.google.com/citations?user=VKyOvOYAAAAJ">Google Scholar</a>.</li>
     </ul>
 
