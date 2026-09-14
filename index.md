@@ -53,17 +53,17 @@ ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
 
 .market-note-wrapper{
   text-align:center;
-  margin-top:0.6rem;      
+  margin-top:0.6rem;
 }
 
 .market-note{
   display:inline-block;
   margin:0;
-  padding:0.3rem 0.9rem; 
+  padding:0.3rem 0.9rem;
   background:#f7f7f7;
   border:1px solid #e0e0e0;
   border-radius:8px;
-  font-size:0.85rem;    
+  font-size:0.85rem;
   color:#555;
 }
 
@@ -73,13 +73,13 @@ ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
 <div class="profile-container">
   <div class="profile-image-section">
     <img src="/uploads/photo.jpg" alt="Photo of Samet Demir" width="197" height="236" />
-    <p><em><strong>E-mail: </strong><a href="mailto:sdemir20@ku.edu.tr">sdemir20@ku.edu.tr</a></em></p>
-    <p><em><strong>Address: </strong><a href="https://maps.app.goo.gl/bcJnWHBz3V6pZhxm6">ENG147, Koc University <br/><span style="float:right;">İstanbul / Turkey</span></a></em></p>
+    <p><em><strong>E-mail: </strong><a href="mailto:samet.demir@austin.utexas.edu">samet.demir@austin.utexas.edu</a></em></p>
+    <p><em><strong>Address: </strong><a href="https://www.google.com/maps/search/?api=1&query=201+E+24th+St+Austin+TX+78712">POB 6.244, Oden Institute, UT Austin <br/><span style="float:right;">Austin, TX / USA</span></a></em></p>
   </div>
 
   <div class="profile-content">
     <p>
-      I’m a Ph.D. candidate in <a href="https://cs.ku.edu.tr/">Computer Science &amp; Engineering</a> at <a href="https://www.ku.edu.tr/en/">Koc University</a> and an AI Fellow at the <a href="https://ai.ku.edu.tr/">KUIS AI Research Center</a>. I am a senior member of the Machine Learning &amp; Information Processing (MLIP) group, advised by <a href="https://mysite.ku.edu.tr/zdogan/">Prof. Zafer Dogan</a>.
+      I’m a <a href="https://oden.utexas.edu/">Peter O’Donnell, Jr. Postdoctoral Fellow</a> at the <a href="https://oden.utexas.edu/">Oden Institute for Computational Engineering &amp; Sciences</a>, <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, working with <a href="https://blakebordelon.github.io/">Prof. Blake Bordelon</a>. I received my Ph.D. in <a href="https://cs.ku.edu.tr/">Computer Science &amp; Engineering</a> from <a href="https://www.ku.edu.tr/en/">Koc University</a> in 2026, advised by <a href="https://mysite.ku.edu.tr/zdogan/">Prof. Zafer Dogan</a>, where I was an AI Fellow at the <a href="https://ai.ku.edu.tr/">KUIS AI Research Center</a> and a senior member of the Machine Learning &amp; Information Processing (MLIP) group. Previously, I received B.S. in Computer Engineering from Boğaziçi University.
     </p>
     <p>
       <em>My research develops a high-dimensional learning theory for how the statistics of learned representations arise from the interplay of architecture, data, and optimization—and how these statistics govern behaviors like generalization, in-context learning, and robustness in modern deep learning.</em>
@@ -90,6 +90,7 @@ ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
       <span class="badge">Learning theory</span>
       <span class="badge">High-dimensional statistics</span>
       <span class="badge">Deep learning</span>
+      <span class="badge">In-context learning</span>
       <span class="badge">Gaussian universality</span>
       <span class="badge">Random matrix theory</span>
       <span class="badge">Robust learning</span>
@@ -103,29 +104,35 @@ ul.compact{ margin:.5rem 0 0 1.2rem; } ul.compact li{ margin:.2rem 0; }
 
     <div class="market-note-wrapper">
       <p class="small market-note">
-        Currently on the postdoctoral job market (start date: <strong>Fall 2026</strong>)
+        Open to research positions starting <strong>Fall 2027</strong>
       </p>
     </div>
 
 
     <h4 class="section-title">Selected publications</h4>
     <ul class="compact small">
+      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2511.01292"><em>Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions.</em></a> <strong>ICML 2026</strong>.</li>
       <li><strong>Demir</strong> &amp; Dogan. <a href="https://openreview.net/forum?id=615vk8hmeH"><em>How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs.</em></a> <strong>NeurIPS 2025</strong>.</li>
       <li><strong>Demir</strong> &amp; Dogan. <a href="https://openreview.net/forum?id=tNn6Hskmti"><em>Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures with Structure.</em></a> <strong>ICLR 2025</strong>.</li>
+      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2409.20250"><em>Input-Label Correlation Governs a Linear-to-Nonlinear Transition in Random Features under Spiked Covariance.</em></a> <strong>SIAM Journal on Mathematics of Data Science</strong>, 2026.</li>
       <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2512.01231"><em>Implicitly Normalized Online PCA: A Regularized Algorithm with Exact High-Dimensional Dynamics.</em></a> arXiv preprint, arXiv:2512.01231, 2025.</li>
-      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2511.01292"><em>Optimal Attention Temperature Enhances ICL under Distribution Shift.</em></a> arXiv preprint, arXiv:2511.01292, 2025.</li>
-      <li><strong>Demir</strong> &amp; Dogan. <a href="https://arxiv.org/abs/2409.20250"><em>Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data.</em></a> arXiv preprint, arXiv:2409.20250, 2024.</li>
       <li>More on <a href="https://scholar.google.com/citations?user=VKyOvOYAAAAJ">Google Scholar</a>.</li>
+    </ul>
+
+    <h4 class="section-title">Awards &amp; fellowships</h4>
+    <ul class="compact small">
+      <li><b>Peter O’Donnell, Jr. Postdoctoral Fellowship</b>, Oden Institute, UT Austin (2026–27).</li>
+      <li><b>AI Fellowship</b>, KUIS AI Research Center, Koc University.</li>
     </ul>
 
     <h4 class="section-title">Academic service</h4>
     <ul class="compact small">
-      <li><b>Reviewer</b>: ICLR (2025–26), NeurIPS 2025, ACML (2024–25).</li>
+      <li><b>Reviewer</b>: ICML 2026, ICLR 2025–26, NeurIPS 2025-26, AAAI 2026, ACML 2024–25.</li>
     </ul>
 
     <h4 class="section-title">Teaching</h4>
     <ul class="compact small">
-      <li><b>Head TA</b>: Introduction to Modern Learning Theory (2025– ); Programming for Engineers (2024– ).</li>
+      <li><b>Head TA</b>: Introduction to Modern Learning Theory (2025–26); Programming for Engineers (2024–26).</li>
       <li><b>TA</b>: Algorithms &amp; Complexity (2023–24), Software Engineering (2023), Programming with Python (2022), Computer Systems &amp; Programming (2020–22), Introduction to Computing (2017).</li>
     </ul>
   </div>
